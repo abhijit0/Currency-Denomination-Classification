@@ -1,5 +1,5 @@
 
-The notebook was developed in Google Colab.
+The project was developed in Google Colab.
 
 To run the project in Google drive :
 1) Download and Zip the folder
