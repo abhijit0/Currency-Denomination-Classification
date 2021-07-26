@@ -1,4 +1,3 @@
-# Project1
 
 The notebook was developed in Google Colab.
 
